@@ -17,6 +17,6 @@ This simple library program uses PHP to manage book data with CRUD (Create, Read
 6. Register first then login.
 
 ## Preview 
-![Preview](https://github.com/sarephidayat/crud-sederhana-php/blob/main/img/Crud%20php.png)
+![Preview](https://github.com/sarephidayat/perpustakaan-php/blob/main/Crud%20php.png)
 
 
